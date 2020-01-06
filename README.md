@@ -3,5 +3,5 @@ This is a restaurant website based on video tutorial https://www.youtube.com/wat
 It is responsive website using HTML 5, CSS 3, and a little bit of Vanilla JavaScript.
 
 
-Thanks
+Thanks to
 Julio Codes "https://www.youtube.com/channel/UCeHWTyAKBv_WnW8gsEKGECw"
